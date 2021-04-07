@@ -9,7 +9,7 @@ Models that were used to generate answers are located in the code folders.
  
 2. Different CNN Architectures, Activation Functions, Regularization, Hyperparameter Sweeps
 
-3. Deep Compression - Pruning, Quantization, Hoffman Encoding
+3. Deep Compression - Pruning, Quantization, Huffman Encoding
 
 4. Advanced Sparse Optimization and Fixed-point Quantization
 
