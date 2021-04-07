@@ -1,9 +1,9 @@
-# ECE 590 - Deep Learning
-Work done for my deep learning class at Duke. Code was to be taken out for class submission so there may be more than one version of the file. 
+# Deep Learning Engineering
 
+This repo contains work done for my deep learning class at Duke. Code was to be taken out for class submission so there may be more than one version of the file. 
 Models that were used to generate answers are located in the code folders.
 
-Main topics covered in each Assignment:
+### Main topics covered in each assignment:
 
 1. History of Linear Models, Backpropagation, Convolution
 2. Different CNN Architectures, Activation Functions, Regularization, Hyperparameter Sweeps
